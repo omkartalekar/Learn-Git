@@ -7,3 +7,4 @@ version of the files are saved.
 hello my favourite colour is red.
 
 cjcaaahdhh
+ I changed hello.txt filesgit status
