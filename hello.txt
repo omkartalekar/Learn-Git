@@ -3,3 +3,5 @@ Hello I am Omkar Talekar
 version of the files are saved.
 
 .git local repo
+
+hello my favourite colour is red.
